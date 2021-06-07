@@ -1,10 +1,10 @@
 **General Info**
 
 Requires https://github.com/rdb/blender-egg-importer for ACTUALLY importing .egg files!!!
-This is just optimised for Toontown models.
-Intended for Blender 2.79b or below only! Will not work on higher versions, such as 2.8+
+This is simply optimisations for Toontown models.
+Intended for Blender 2.79b or below only! Will not work on higher versions, such as Blender 2.8+
 
-You will also need to have .png files in your textures location. Contact me at @blockobun on Twitter for more information, or blockobun#0001 on discord! .jpg and .rgb files do not convert properly.
+You will also need to have .png files in your textures location. Contact me at @blockobun on Twitter, or blockobun#0001 on discord for more information. This is because .jpg and .rgb files do not convert properly in Blender.
 Supports exporting to Roblox!
 
 **Install Instructions**
@@ -15,6 +15,7 @@ Then go to User Preferences > Add-ons > Development, and select the checkbox for
 
 **TODO**
 
-Add animation exporter.
-Better filenames.
-Warnings.
+Potential animation exporter
+Potential 2D object selector
+A better project name
+Warnings for irreversable actions

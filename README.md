@@ -17,6 +17,9 @@ Then go to User Preferences > Add-ons > Development, and select the checkbox for
 **TODO**
 
 Potential animation exporter
+
 Potential 2D object selector
+
 A better project name
+
 Warnings for irreversable actions

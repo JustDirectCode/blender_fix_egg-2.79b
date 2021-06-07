@@ -4,7 +4,7 @@ Requires https://github.com/rdb/blender-egg-importer for ACTUALLY importing .egg
 This is just optimised for Toontown models.
 Intended for Blender 2.79b or below only! Will not work on higher versions, such as 2.8+
 
-You will also need to have .png files in your textures location. Contact me a @blockobun for more information! .jpg and .rgb files do not convert properly.
+You will also need to have .png files in your textures location. Contact me at @blockobun on Twitter for more information, or blockobun#0001 on discord! .jpg and .rgb files do not convert properly.
 Supports exporting to Roblox!
 
 **Install Instructions**

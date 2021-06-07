@@ -5,7 +5,8 @@ This is simply optimisations for Toontown models.
 Intended for Blender 2.79b or below only! Will not work on higher versions, such as Blender 2.8+
 
 You will also need to have .png files in your textures location. Contact me at @blockobun on Twitter, or blockobun#0001 on discord for more information. This is because .jpg and .rgb files do not convert properly in Blender.
-Supports exporting to Roblox!
+
+Supports exporting to Roblox (fbx)!
 
 **Install Instructions**
 
